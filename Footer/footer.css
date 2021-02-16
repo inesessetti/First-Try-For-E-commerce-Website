@@ -1,0 +1,19 @@
+.F{
+    background-color: gray;
+}
+.Links{
+    color: black;
+    word-spacing: 2em;
+    display :inline-block;
+    margin-left: 20px;
+}
+.KtibetL{
+    color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: line;
+    flex: 1;
+    word-spacing: 30px;
+    
+    margin-left: 42%;
+}

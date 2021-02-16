@@ -1,0 +1,23 @@
+.Cont{
+    text-align: center;
+    background-color: gray;
+    margin: 5%;
+}
+.C2{
+    text-align: center;
+  
+}
+.Formulaire{
+    margin-left:35%;
+    margin-top: 5%;
+    margin-right: 10%;
+    border: cadetblue;
+    border-radius: 100px;
+    border-style: solid;
+    width: 500px;
+    height: 50%;
+    padding: 50px;
+}
+.Buut{
+    margin-left: 40%;
+}
